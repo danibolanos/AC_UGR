@@ -1,0 +1,31 @@
+TAMANIO 200
+Programa secuencial
+Tiempo(seg.):0.013929447	 / Tamaño Matriz:200	/ M3[0][0]=26867.000000 / / M3[199][199]=26071.000000 /
+Programa paralelo 1 threads
+Número de threads usando: 1
+Tiempo(seg.):0.013740134	 / Tamaño Matriz:200	/ M3[0][0]=26867.000000 / / M3[199][199]=26071.000000 /
+Programa paralelo 2 threads
+Número de threads usando: 2
+Tiempo(seg.):0.006559280	 / Tamaño Matriz:200	/ M3[0][0]=26867.000000 / / M3[199][199]=26071.000000 /
+Programa paralelo 3 threads
+Número de threads usando: 3
+Tiempo(seg.):0.004828992	 / Tamaño Matriz:200	/ M3[0][0]=26867.000000 / / M3[199][199]=26071.000000 /
+Programa paralelo 4 threads
+Número de threads usando: 4
+Tiempo(seg.):0.005424635	 / Tamaño Matriz:200	/ M3[0][0]=26867.000000 / / M3[199][199]=26071.000000 /
+TAMANIO 1200
+Programa secuencial
+Tiempo(seg.):5.005052893	 / Tamaño Matriz:1200	/ M3[0][0]=5767202.000000 / / M3[1199][1199]=5738426.000000 /
+Programa paralelo 1 threads
+Número de threads usando: 1
+Tiempo(seg.):5.109642694	 / Tamaño Matriz:1200	/ M3[0][0]=5767202.000000 / / M3[1199][1199]=5738426.000000 /
+Programa paralelo 2 threads
+Número de threads usando: 2
+Tiempo(seg.):2.522439532	 / Tamaño Matriz:1200	/ M3[0][0]=5767202.000000 / / M3[1199][1199]=5738426.000000 /
+Programa paralelo 3 threads
+Número de threads usando: 3
+Tiempo(seg.):2.912427362	 / Tamaño Matriz:1200	/ M3[0][0]=5767202.000000 / / M3[1199][1199]=5738426.000000 /
+Programa paralelo 4 threads
+Número de threads usando: 4
+Tiempo(seg.):4.426992308	 / Tamaño Matriz:1200	/ M3[0][0]=5767202.000000 / / M3[1199][1199]=5738426.000000 /
+

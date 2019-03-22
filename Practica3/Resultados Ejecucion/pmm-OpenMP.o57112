@@ -1,0 +1,33 @@
+Id. usuario del trabajo: E1estudiante20
+Id. del trabajo: 57112.atcgrid
+Nombre del trabajo especificado por usuario: pmm-OpenMP
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/E1estudiante20/BP3
+Cola: ac
+Nodos asignados al trabajo:
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+atcgrid1
+Número de threads usando: 12
+Tiempo(seg.):1.917243212	 / Tamaño Matriz:1200	/ M3[0][0]=5767202.000000 / / M3[1199][1199]=5738426.000000 /
